@@ -1,0 +1,34 @@
+.blog-container {
+    max-width: 80%; /* Limit the width for readability */
+    margin: 20px auto; /* Center align the blog */
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9; /* Light background for a professional look */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  .blog-title {
+    font-size: 2.5rem;
+    text-align: center; /* Center the title */
+    margin-bottom: 20px;
+    color: #333; /* Dark color for readability */
+  }
+  
+  .blog-summary {
+    font-size: 1.2rem;
+    line-height: 1.8; /* Improve readability */
+    color: #555; /* Slightly lighter than the title */
+    text-align: justify;
+    margin: 0 20px; /* Space from both sides */
+  }
+  .blog-image {
+    width: 100%; /* Make the image responsive */
+    max-width: 800px;
+    
+     /* Ensure it doesn’t exceed the container width */
+    margin: 20px 350px; /* Add some spacing above and below */
+    border-radius: 8px; /* Rounded corners for a sleek look */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+    
